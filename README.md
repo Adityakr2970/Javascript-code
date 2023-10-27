@@ -1,0 +1,2 @@
+# Javascript-code
+Learning javascript
